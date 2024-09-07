@@ -23,7 +23,7 @@ The project utilizes Python and Yahoo Finance API to pull stock data from the S&
 
 <h3> The result </h3>
 The model hypothesizes that different portfolios could potentially suit different investment goals; for example, an investor who opts for a balanced portfolio that can beat the S&P-500 but is not overly risky can build a basket with the top 20 S&P-500 holdings. 
-![The Result](https://github.com/khasportfolio/Monte-Carlo-Intergration-Techniques-Stock-Baskets/blob/6fbb867f5a8629cea2badd8b4026120cb248e94e/Result.png)
+![The Result](https://github.com/khasportfolio/Monte-Carlo-Intergration-Techniques-Stock-Baskets/blob/main/result.png)
 
 <h3> Further consideration </h3>
 This project aims to cater to the average investor who may need more extensive knowledge or time to thoroughly research the stock markets. However, in the future, I would like to enhance and explore further through larger sample sizes, an extended time horizon, and more carefully selected stock baskets for greater accuracy and insight.
